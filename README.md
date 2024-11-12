@@ -12,6 +12,6 @@ Lab-06: https://github.com/HasiniBaireddy24/AIML_4013/blob/main/AIML_lab06.ipynb
 
 Lab-07: https://github.com/HasiniBaireddy24/AIML_4013/blob/main/AIML_Lab07.ipynb
 
-Lab-08: https://github.com/HasiniBaireddy24/AIML_4013/blob/main/AIML_Lab08.ipynb
+
 
 Lab-09: https://github.com/HasiniBaireddy24/AIML_4013/blob/main/AIML_Lab09.ipynb
